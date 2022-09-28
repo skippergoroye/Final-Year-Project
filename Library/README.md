@@ -9,4 +9,4 @@ python manage.py runserver
 
 
 DJANGO BookApp
-![alt text](https://github.com/MoTechStore/Django-Online-Library-Management-System/blob/main/thumb.png)
+
